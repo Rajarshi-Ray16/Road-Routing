@@ -1,5 +1,5 @@
 # Routing-Grp-26
-##How to use the code.
+## How to use the code.
 
 To compile, use gcc Main.c .\graph.c .\stack.c .\string-hash.c .\heap.c 
 Make sure you have python installed and the graphing library installed (using pip install networkx matplotlib as root)
